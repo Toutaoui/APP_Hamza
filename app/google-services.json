@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192096359288",
+    "project_id": "hamzaquiz",
+    "storage_bucket": "hamzaquiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192096359288:android:9102e857d6747005c3ee8d",
+        "android_client_info": {
+          "package_name": "com.example.quiz_hamza_toutaoui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw21gqCBHb7pIL3S4fsa9luqmHt0trmuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
